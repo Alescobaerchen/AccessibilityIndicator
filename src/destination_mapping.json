@@ -1,0 +1,176 @@
+{
+    "airport": {
+        "tags": {
+            "aeroway": "aerodrome"
+        }
+    },
+    "bar": {
+        "tags": {
+            "amenity": "bar"
+        }
+    },
+    "café": {
+        "tags": {
+            "amenity": "cafe"
+        }
+    },
+    "cinema": {
+        "tags": {
+            "amenity": "cinema"
+        }
+    },
+    "club": {
+        "tags": {
+            "amenity": "nightclub"
+        }
+    },
+    "parcel locker": {
+        "tags": {
+            "amenity": "parcel_locker"
+        }
+    },
+    "pharmacy": {
+        "tags": {
+            "amenity": "pharmacy"
+        }
+    },
+    "trash island": {
+        "tags": {
+            "amenity": "recycling"
+        }
+    },
+    "restaurant": {
+        "tags": {
+            "amenity": "restaurant"
+        }
+    },
+    "primary school": {
+        "tags": {
+            "amenity": "school",
+            "isced:level": "1"
+        }
+    },
+    "kindergarten": {
+        "tags": {
+            "amenity": "kindergarten"
+        }
+    },
+    "church": {
+        "tags": {
+            "amenity": "place_of_worship",
+            "religion": "christian"
+        }
+    },
+    "train station": {
+        "tags": {
+            "railway": "station"
+        }
+    },
+    "subway station": {
+        "tags": {
+            "railway": "subway_entrance"
+        }
+    },
+    "university": {
+        "tags": {
+            "amenity": "university"
+        }
+    },
+    "gas station": {
+        "tags": {
+            "amenity": "fuel"
+        }
+    },
+    "fast food restaurant": {
+        "tags": {
+            "amenity": "fast_food"
+        }
+    },
+    "hospital": {
+        "tags": {
+            "amenity": "hospital"
+        }
+    },
+    "drug store": {
+        "tags": {
+            "shop": "chemist"
+        }
+    },
+    "electronics store": {
+        "tags": {
+            "shop": "electronics"
+        }
+    },
+    "hardware store": {
+        "tags": {
+            "shop": "doityourself"
+        }
+    },
+    "garden centre": {
+        "tags": {
+            "shop": "garden_centre"
+        }
+    },
+    "beauty salon": {
+        "tags": {
+            "shop": "beauty"
+        }
+    },
+    "bike repair shop": {
+        "tags": {
+            "amenity": "bicycle_repair_station"
+        }
+    },
+    "shopping center": {
+        "tags": {
+            "shop": "mall"
+        }
+    },
+    "mall": {
+        "tags": {
+            "shop": "mall"
+        }
+    },
+    "supermarket": {
+        "tags": {
+            "shop": "supermarket"
+        }
+    },
+    "car repair shop": {
+        "tags": {
+            "shop": "car_repair"
+        }
+    },
+    "fitness centre": {
+        "tags": {
+            "leisure": "fitness_centre"
+        }
+    },
+    "park": {
+        "tags": {
+            "leisure": "park"
+        }
+    },
+    "beachvolleyball pitch": {
+        "tags": {
+            "sport": "beachvolleyball"
+        }
+    },
+    "swimming pool": {
+        "tags": {
+            "sport": "swimming"
+        }
+    },
+    "general practitioner": {
+        "tags": {
+            "healthcare": "doctors",
+            "healthcare:speciality": "general"
+        }
+    },
+    "pediatrician": {
+        "tags": {
+            "healthcare": "doctors",
+            "healthcare:speciality": "paediatrics"
+        }
+    }
+}

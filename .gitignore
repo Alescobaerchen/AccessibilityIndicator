@@ -1,0 +1,11 @@
+.venv/
+display_polygon.py
+Indicator_main.py
+src/.idea
+src/.venv
+src/cache
+src/overpass_query.txt
+src/symbology-style.db
+src/test_dataset.xlsx
+src/*.html
+src/.env
